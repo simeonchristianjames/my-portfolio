@@ -1066,11 +1066,6 @@ canvas {
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease; }
 
-@media screen and (max-width: 991px) {
-  .st-hero-wrap {
-    height: initial; }
-    .st-hero-wrap .st-hero-img {
-      display: none; } }
 @media screen and (max-width: 767px) {
   .st-hero.st-style2 h1 {
     font-size: 40px; }
